@@ -1,5 +1,5 @@
 # -*- encoding: utf-8 -*-
-from dal import autocomplete
+# from dal import autocomplete
 from django import forms
 from django.contrib.admin.filters import SimpleListFilter
 from django.core.exceptions import ImproperlyConfigured
